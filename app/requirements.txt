@@ -1,0 +1,6 @@
+flask
+Flask-SQLAlchemy
+celery
+redis
+postgres
+psycopg2-binary==2.9.1
